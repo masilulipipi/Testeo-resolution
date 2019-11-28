@@ -1,0 +1,10 @@
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\bin\Debug\Testeo resolution.exe.config
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\bin\Debug\Testeo resolution.exe
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\bin\Debug\Testeo resolution.pdb
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo resolution.csprojAssemblyReference.cache
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo_resolution.Form1.resources
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo_resolution.Properties.Resources.resources
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo resolution.csproj.GenerateResource.cache
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo resolution.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo resolution.exe
+C:\Users\ar00090132\source\repos\Testeo resolution\Testeo resolution\obj\Debug\Testeo resolution.pdb
